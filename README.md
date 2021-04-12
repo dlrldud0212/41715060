@@ -3,15 +3,26 @@
 <head>
 <title>자기소개</title>
 <style>
-  h1{color: dodgerblue; border:2px solid tomato;}
+ h1:hover {color: salmon;}
+ h1:active {color: seagreen;}
 </style>
 <style>
   h2 {color: rgb(162, 0, 255); }
   h3 {color: rgb(162, 0, 255); }
   p {color: black; }
   body, h2, h3, p {margin: 0; padding:0;}
+  ul {overflow: hidden;}
+    li{
+      list-style: none;
+      float: left; padding:15px;
+    }
+    li:first-child {border-radius: 10px 0 0 10px;}
+    li:last-child {border-radius: 0 10px 0;}
+    li:nth-child(2n){background-color: #ff0022;}
+    li:nth-child(2n+1){background-color: chartreuse;}
 </style>
 </head>
+<img src="두원.png" alt="두원.png"width="300" >
 <p>
   <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;41715060 이기영 자기소개서</h1>
   <hr>
@@ -23,10 +34,12 @@
   </p>
   <hr>
   <h2>좋아하는 음식</h2>
+  <ul>
   <ol type="A">
     <Li>찜닭</Li>
     <Li>뼈구이</Li>
     <Li>라면</Li>
+  </ul>
   </ol>
   <hr>
   <h3>취미</h3>
@@ -35,6 +48,31 @@
     <dd>- 피아노</dd>
     <dd>- 맛집 탐방</dd>
   </dl>
+  <hr>
+  <table border="1">
+    <tr>
+      <th 지역별 colspan="2" >가족 관계</th>
+    </th>
+    <tr>
+      <th rowspan="4">가족</th>
+      <td>아빠</td>
+    </tr>
+    <tr>
+      <td>엄마</td>
+    </tr>
+      <tr>
+      <td>여동생</td>
+      </tr>
+      <tr>
+        <td>남동생</td>
+        </tr>
+      <tr>
+        <th rowspan="2">반려동물</th>
+        <td>강아지</td>
+      </tr>
+      <tr>
+        <td>고양이</td>
+      </tr>
 </p>
 </body>
 </html>
