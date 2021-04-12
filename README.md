@@ -2,9 +2,18 @@
 <html lang="en"> 
 <head>
 <title>자기소개</title>
+<style>
+  h1{color: dodgerblue; border:2px solid tomato;}
+</style>
+<style>
+  h2 {color: rgb(162, 0, 255); }
+  h3 {color: rgb(162, 0, 255); }
+  p {color: black; }
+  body, h2, h3, p {margin: 0; padding:0;}
+</style>
 </head>
 <p>
-  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;41715060 이기영 자기소개서</h1>
+  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;41715060 이기영 자기소개서</h1>
   <hr>
  <h2>자기소개서</h2>
   <p>  안녕하십니까 현재 두원공과대학교 메카트로닉스 공학과 3학년 A반에 재학중인 41715060 이기영이라고 합니다. 군대 (73사단)전역후 2021년도 3학년 1학기에 복학을 다시 하였습니다.
